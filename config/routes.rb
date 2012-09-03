@@ -1,5 +1,5 @@
 Demo::Application.routes.draw do
-  get "say/hello"
+  match 'say/hello' => 'say#hello'
 
   get "say/goodbye"
 
