@@ -199,10 +199,13 @@ app
 app/assets
   Contains subdirectories for images, stylesheets, and JavaScript files.
 
-app/controllers
-  Holds controllers that should be named like weblogs_controller.rb for
-  automated URL mapping. All controllers should descend from
-  ApplicationController which itself descends from ActionController::Base.
+
+big chunk of text that is a better version than before
+big chunk of text that is a better version than before
+big chunk of text that is a better version than before
+big chunk of text that is a better version than before
+big chunk of text that is a better version than before
+
 
 app/models
   Holds models that should be named like post.rb. Models descend from
